@@ -95,14 +95,14 @@ If you don't see your idea listed, [Open an issue](https://github.com/beamkenya/
 
 Check the [Contribution guide](contributing.md) on how to contribute.
 
-## Contributors
+<!-- ## Contributors
 
 Auto-populated from:
 [contributors-img](https://contributors-img.firebaseapp.com/image?repo=beamkenya/ex_mpesa)
 
 <a href="https://github.com/beamkenya/ex_mpesa/graphs/contributors">
   <img src="https://contributors-img.firebaseapp.com/image?repo=beamkenya/ex_mpesa" />
-</a>
+</a> -->
 
 ## Licence
 
